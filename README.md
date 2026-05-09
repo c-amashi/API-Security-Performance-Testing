@@ -50,10 +50,9 @@ Defects were tracked using Jira.
 - Data Exposure (High)
 
 ---
+## Report
 
-## 📄 Report
+## Screenshots
 
----
-
-## 👩‍💻 Author
+## Author
 W.A.D. Chaduki Amashi
